@@ -1,2 +1,2 @@
-src/app/code/community/StackExchange/CatalogSearch  app/code/community/StackExchange/CatalogSearch
-src/app/etc/modules/*                               app/etc/modules/
+src/app/code/community/StackExchange/SingleSearchResult  app/code/community/StackExchange/SingleSearchResult
+src/app/etc/modules/*                                    app/etc/modules/

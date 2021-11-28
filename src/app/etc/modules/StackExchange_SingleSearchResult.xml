@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <StackExchange_CatalogSearch>
+        <StackExchange_SingleSearchResult>
             <codePool>community</codePool>
             <active>true</active>
             <depends>
                 <Mage_CatalogSearch />
             </depends>
-        </StackExchange_CatalogSearch>
+        </StackExchange_SingleSearchResult>
     </modules>
 </config>

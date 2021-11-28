@@ -1,14 +1,11 @@
 <?php
 
-/**
- * Class StackExchange_CatalogSearch_Model_Observer
- */
-class StackExchange_CatalogSearch_Model_Observer
+class StackExchange_SingleSearchResult_Model_Observer
 {
     /**
      * the product list block name in layout
      */
-    const RESULT_BLOCK_NAME = 'search_result_list';
+    public const RESULT_BLOCK_NAME = 'search_result_list';
 
     /**
      * @param Varien_Event_Observer $observer
